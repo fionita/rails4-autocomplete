@@ -23,4 +23,5 @@ tmp
 .bundle
 .rvmrc
 .gemrc
+.project
 Gemfile.lock
